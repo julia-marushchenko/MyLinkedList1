@@ -28,6 +28,7 @@ public class Main {
         list.add("Marc O'Polo");
         list.add("Michael Kors");
         list.add("Starbucks");
+        list.add("Miele");
 
         // Printing the list to console
         System.out.println(list);
